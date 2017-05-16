@@ -1,9 +1,10 @@
 # Contributing to [Introduction to Digital Humanities]
 
->Thank you for your interest in contributing to [Introduction to Digital Humanities] :tada:! 
+Thank you for your interest in contributing to [Introduction to Digital Humanities] :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+Digital Humanities in Southern Africa in particular is a new buzz word, but not all interested in DH is entirely sure what it can entail and where to find examples and resources about the field.
+
+The aim of this project is to provide newcommers with a portal and starting point to examples of DH initiatives, tools and resources available online
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
