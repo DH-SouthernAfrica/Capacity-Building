@@ -9,11 +9,13 @@ The project aims to provide groundwork for:
 
 ## Getting Started
 
-There are more than one way to get involved with this project, you can view the work done so far here: (Github-Website-Link-To-Be-Added) and add your comment and suggestion in github or by using an online form to suggest changes.
+There are more than one way to get involved with this project, you will be able to see the work done so far on Friday, 19 May. You will be able to add your comment and suggestion in github, by using an this online form https://goo.gl/forms/xvOax1e95miiVaIl1 to suggest changes or getting in touch via e-mail with zjsteyn@gmail.com.
 
 ## Contributing
 
 Thanks for your interest in contributing to the [Introducing Digital Humanities Project]! There are many ways to contribute. 
+
+The roadmap for this project will be available by Friday, 19 May.
 
 If you are unfamiliar with Github you can contribute or get in touch by adding your comment, suggestion or tool in the following online form: (https://goo.gl/forms/Q6Tz2GletfsMSLGt1) 
 
