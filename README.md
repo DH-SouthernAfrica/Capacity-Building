@@ -19,7 +19,7 @@ The roadmap for this project will be available by Friday, 19 May.
 
 If you are unfamiliar with Github you can contribute or get in touch by adding your comment, suggestion or tool in the following online form: (https://goo.gl/forms/Q6Tz2GletfsMSLGt1) 
 
-If you would like to give github a try, take a look at [CONTRIBUTING.md](CONTRIBUTING.md) for additional ways that you can contribute.
+If you would like to give github a try, take a look at [CONTRIBUTE.md](CONTRIBUTE.md) for additional ways that you can contribute.
 
 
 ## Participation Guidelines
