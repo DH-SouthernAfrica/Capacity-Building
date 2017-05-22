@@ -1,6 +1,6 @@
 #  Introducing Digital Humanities 
 
-The project aims to provide groundwork for introducing newcommers to some of the many field of Digital Humanities & open-science.
+The project aims to provide groundwork for introducing newcommers to some of the many fields of Digital Humanities & open-science.
 
 This will be done by:
 * Creating a github website & repository for introducing newcommers.
