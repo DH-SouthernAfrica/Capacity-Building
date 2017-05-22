@@ -1,11 +1,14 @@
 #  Introducing Digital Humanities 
 
-The project aims to provide groundwork for:
+The project aims to provide groundwork for introducing newcommers to some of the many field of Digital Humanities & open-science.
 
-1. a github website & repository to introduce newcomers to some of the many areas within the field of Digital Humanities & open-science
-2. provide links to existing repositories & available of tools &
-3. provide links to available training materials that is available online.
-4. If there is still time available... Develop Digital Humanities material use in Data Carpentry Workshop
+This will be done by:
+* Creating a github website & repository for introducing newcommers.
+* Populating the website with links to existing repositories & available tools 
+* Provide links to available training materials that is available online.
+* Develop Digital Humanities material / dataset for use in Data Carpentry Workshops
+
+For detailed info go to the project's [Roadmap](ROADMAP.md)
 
 ## Getting Started
 
@@ -15,7 +18,7 @@ The roadmap for this project is available here: [ROADMAP.md](ROADMAP.md)
 
 ## Contributing
 
-Thanks for your interest in contributing to the Introducing Digital Humanities Project! 
+Thanks again for your interest in contributing to the Introducing Digital Humanities Project! 
 
 There are many ways that you can contribute: 
 
