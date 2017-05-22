@@ -9,22 +9,25 @@ The project aims to provide groundwork for:
 
 ## Getting Started
 
-There are more than one way to get involved with this project, work done thus far is available here - [DH-RESOURCES](DH-RESOURCES.md). You will be able to add your comment and suggestion in github, by using an this online form https://goo.gl/forms/xvOax1e95miiVaIl1 to suggest changes or getting in touch via e-mail with [zjsteyn@gmail.com](zjsteyn@gmail.com).
-
-## Contributing
-
-Thanks for your interest in contributing to the [Introducing Digital Humanities Project]! There are many ways to contribute. 
+There are more than one way to get involved with this project, work done thus far will be available here during the Sprint - [DH-RESOURCES](DH-RESOURCES.md). 
 
 The roadmap for this project is available here: [ROADMAP.md](ROADMAP.md)
 
-If you are unfamiliar with Github you can contribute or get in touch by adding your comment, suggestion or tool in the following [online form:](https://goo.gl/forms/Q6Tz2GletfsMSLGt1) 
+## Contributing
+
+Thanks for your interest in contributing to the Introducing Digital Humanities Project! 
+
+There are many ways that you can contribute: 
+
+- You will be able to add your comment and suggestion of resources by creating an issue in GitHub or
+- If you are unfamiliar with Github you can contribute by adding your comment, suggestion or tool in the following [online form:](https://goo.gl/forms/Q6Tz2GletfsMSLGt1) or
+- you can get in touch via e-mail with [zjsteyn@gmail.com](mailto:zjsteyn@gmail.com).
 
 If you would like to give github a try, take a look at [CONTRIBUTE.md](CONTRIBUTE.md) for additional ways that you can contribute.
 
-
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [zjsteyn@gmail.com].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [zjsteyn@gmail.com](mailto:zjsteyn@gmail.com).
 
 ## MozSprint
 
