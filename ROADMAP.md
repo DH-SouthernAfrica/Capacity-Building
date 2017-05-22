@@ -1,6 +1,8 @@
 # Project Mission
 > To create github website & repository to introduce newcomers to some of the many areas within the field of Digital Humanities & open-science.
 
+For more info on how to contribute please read the [following page](CONTRIBUTE.md)
+
 ## Milestones
 * Milestone One - Github Website
 * Milestone Two - Available resources and Tools
