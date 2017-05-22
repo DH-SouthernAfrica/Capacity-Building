@@ -1,4 +1,4 @@
-# [ Introducing Digital Humanities ]
+#  Introducing Digital Humanities 
 
 The project aims to provide groundwork for:
 
