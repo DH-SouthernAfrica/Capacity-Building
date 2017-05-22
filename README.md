@@ -8,7 +8,7 @@ This will be done by:
 * Provide links to available training materials that is available online.
 * Develop Digital Humanities material / dataset for use in Data Carpentry Workshops
 
-For detailed info go to the project's [Roadmap](ROADMAP.md)
+For detailed info go to the project's [Roadmap](ROADMAP.md) or visit [Introducing Digital Humanities website](https://dh-southernafrica.github.io/Capacity-Building/)
 
 ## Getting Started
 
