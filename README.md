@@ -25,6 +25,7 @@ There are many ways that you can contribute:
 - You will be able to add your comment and suggestion of resources by creating an issue in GitHub or
 - If you are unfamiliar with Github you can contribute by adding your comment, suggestion or tool in the following [online form:](https://goo.gl/forms/Q6Tz2GletfsMSLGt1) or
 - you can get in touch via e-mail with [zjsteyn@gmail.com](mailto:zjsteyn@gmail.com).
+- You are also welcome get in touch on this ehterpad, http://pad.software-carpentry.org/mozsprint2017 to signup for virtual meet-ups during 1 to 2 June or to engage if you have any questions or suggestions on the project.
 
 If you would like to give github a try, take a look at [CONTRIBUTE.md](CONTRIBUTE.md) for additional ways that you can contribute.
 
