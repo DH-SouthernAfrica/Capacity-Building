@@ -25,6 +25,8 @@ Please create an issue for any of the above by following the steps below if you 
 * describe your need/suggestion/idea in as much detail as necessary or list the resources
 If you are unfamilliar to GitHub you can submit your contribution [here](https://goo.gl/forms/xvOax1e95miiVaIl1) or by email to [zjsteyn@gmail.com](mailto:zjsteyn@gmail.com)
 
+You are also welcome get in touch on this ehterpad, http://pad.software-carpentry.org/mozsprint2017 to signup for virtual meet-ups during 1 to 2 June or to engage if you have any questions or suggestions on the project.
+
 ## First time contributing to open source?
 Is this your first time contributing to open source you may benefit form the following *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
